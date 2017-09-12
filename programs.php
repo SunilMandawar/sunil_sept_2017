@@ -1,5 +1,5 @@
 <?php
-
+//
 // Program to read a file
 /*
 $objFile = fopen( 'sunil.txt','w+' );
