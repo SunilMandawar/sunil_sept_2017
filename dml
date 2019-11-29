@@ -1,0 +1,39 @@
+eassociations.dmi Notepad
+File Edit Format View Help
+record
+string("I
+string(, maximum length=20) source_system NULL("");
+string("
+string(, maximum length =20) record_type = NULL("");
+date("YYYYMMDD) (I") asof_date NULL (**");
+string(I, maximum length=40) arrangement_rltnp_type id NULL ();
+string("I", maximum length-20) filler_1- NULL();
+decimal("I", maximum length=7) percent amount NULL (");
+date("YYYYMMDD" ) (" | ") effective_date NULL (~*);
+date("YYYYMMDD")("I) end_date NULL ();
+decimal("I", maximum length-39) source_system id NULL (");
+string("I", maximum length-20) unique id source system NULL ();
+string("I", maximum length=2) adjustment_indicator NULL ( "") ;
+string("", maximum_length=20) user_id NULL();
+string("|", maximum_length=20) adjustment_reason_code NULL (");
+string("I", maximum length-100) description = NULL();
+string("|", maximum length-250) adj std arrg id NULL(");
+string("|", maximum length-20) filler 2 NULL(");
+string("|", maximum length-20) filler 3 NULL ("");
+string("|", maximum length=20) filler 4 NULL (");
+string("|", maximum length=20) filler_5 - NULL ( "");
+string("I", maximum length-20) filler 6 NULL("");
+string("|", maximum length=20) filler_7 NULL (");
+string("I, maximum length=20) filler_8 - NULL (");
+string("I", maximum length-20) filler 9 NULL (");
+string("|", maximum length=20) filler_10 NULL("");
+string("I", maximum length-20) filler 11 NULL("");
+string("I", maximum length-20) filler 12 NULL ("");
+string("I", maximum length=20) filler 13 NULL();
+string("|", maximum length-20) filler 14 NULL (");
+string(1) newline = "\n " ;
+', maximum length =40) unique_id NULL(");
+maximum length-20) product_system NULL("");
+I
+end;
+
